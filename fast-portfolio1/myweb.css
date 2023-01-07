@@ -1,0 +1,271 @@
+.bannar-title{
+    
+
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 850px;
+    top: 216px;
+
+    text-align: right;
+    font-family: 'work sans';
+    font-style: normal;
+    color: #FFFFFF;
+
+    font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 76px;
+text-align: right;
+
+
+}
+
+.banner-sub-title{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.btn{
+    position: absolute;
+    width: 150px;
+    height: 60px;
+    left: 1236px;
+    top: 599px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: right;
+
+   color: #005FAC;
+
+}
+.main-title{
+        /*this is a main title*/
+        position: absolute;
+width: 288px;
+height: 101.75px;
+left: 860px;
+top: 1000px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+
+
+color: #151414;
+display: flex;
+
+}
+.sub-title{
+    /*thi is a pragraph tag*/
+    position: absolute;
+    width: 416px;
+    height: 123px;
+    left: 860px;
+    top: 1125px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.icon{
+    position: absolute;
+width: 349px;
+height: 175.37px;
+left: 850px;
+top: 1250px;
+color: #444343;
+
+}
+.plan{
+    text-align: center;
+    font-family: 'work sans';
+}
+.mejor-icon{
+    position: absolute;
+    width: 1000px;
+    height: 100.96px;
+    top: 1700px;
+    left: 230px;
+    display: flex;
+    
+}
+.debolop{
+    
+    position: absolute;
+    width: 92.96px;
+    height: 10.96px;
+    top: 100px;
+    align-items: center;
+    text-align: center;
+    font-family: 'work sans';
+}
+
+
+    
+    
+ 
+
+.js{
+
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    top: 10px;
+    left: 300px;
+    text-align: center;
+    font-family: 'work sans';
+}
+.smoking{
+    position: absolute;
+    width: 93.96px;
+    height: 93.96px;
+    top: 10px;
+    left: 916px;
+    text-align: center;
+    font-family: 'work sans';
+
+}
+.e-comars{
+    position: absolute;
+    width: 300px;
+    height: 92.96px;
+    top: 10px;
+    left: 500px;
+    text-align: center;
+    font-family: 'work sans';
+}
+
+.positive{
+    position: absolute;
+    width: 300px;
+    height: 1050px;
+    left: 250px;
+    top: 2000px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 2000;
+    font-size: 25px;
+    line-height: 2;  
+
+   
+
+}
+.call-btn{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 250px;
+    top: 2150px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #005FAC;
+    ;
+
+}
+.another-image{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 1950.96px;
+
+}
+.footer{
+    position: absolute;
+width: 600px;
+height: 317px;
+left: 230px;
+top: 2450.96px;
+font-family: 'work sans';
+
+}
+.fb{
+    position: absolute;
+width: 47px;
+height: 46px;
+left: 200px;
+top: 2650.96px;
+}
+.twitter{
+    position: absolute;
+width: 47px;
+height: 46px;
+left: 260px;
+top: 2650.96px;
+
+}
+.youtube{
+    position: absolute;
+width: 46px;
+height: 46px;
+left: 325px;
+top: 2650.96px;
+
+}
+.sub{
+    position: absolute;
+width: 123px;
+height: 29px;
+left: 1046px;
+top: 2450.96px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+
+
+}
+
+.form1{
+    position: absolute;
+width: 325px;
+height: 64px;
+left: 1046px;
+top: 2550.96px;
+
+}
+.button4{
+    position: absolute;
+width: 170.11px;
+height: 64px;
+left: 1046px;
+top: 2600.96px;
+
+}
+
+
