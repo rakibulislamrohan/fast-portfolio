@@ -1,6 +1,8 @@
+
+
 .bannar-title{
     
-
+    
     position: absolute;
     width: 525px;
     height: 228px;
@@ -200,72 +202,79 @@ width: 1140px;
 height: 300px;
 left: 230px;
 top: 1950.96px;
-
 }
-.footer{
-    position: absolute;
-width: 600px;
-height: 317px;
-left: 230px;
-top: 2450.96px;
+
+.contact{
+    display: flex;
+    gap: 50px;
+    background: #151414;
+    height: 500px;
+    width: 1600px; 
+
+    
+    
+    
+    
+}
+.contact .bottom{
+color: #FFFFFF;
+
+padding: 5px 20px;
 font-family: 'work sans';
+    
+}
+
+ .contact input{
+    margin-bottom: 25px;
+    border: 0px;
+    padding: 25px 50px;
+ }
+ .contact a{
+    text-decoration: none;
+    padding: 0px 160px;
+    
+    
+position: absolute;
+width: 175px;
+height: 46px;
+left: 5px;
+top: 2750.3px;
+
+ }
+.fm{
+     
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 30spx;
+padding: 2px 150px;
+color: #F8F8F8;
+}
+
+.form-2{
+    position: absolute;
+width: 357px;
+height: 226.04px;
+left: 1004px;
+top: 2500.96px;
 
 }
-.fb{
+.bottom-2{
     position: absolute;
-width: 47px;
-height: 46px;
-left: 200px;
-top: 2650.96px;
-}
-.twitter{
-    position: absolute;
-width: 47px;
-height: 46px;
-left: 260px;
-top: 2650.96px;
-
-}
-.youtube{
-    position: absolute;
-width: 46px;
-height: 46px;
-left: 325px;
-top: 2650.96px;
-
-}
-.sub{
-    position: absolute;
-width: 123px;
-height: 29px;
-left: 1046px;
-top: 2450.96px;
+width: 485px;
+height: 78px;
+left: 155px;
+top: 2550.3px;
 
 font-family: 'Work Sans';
 font-style: normal;
-font-weight: 600;
-font-size: 25px;
-line-height: 29px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
 
 
 
-}
-
-.form1{
-    position: absolute;
-width: 325px;
-height: 64px;
-left: 1046px;
-top: 2550.96px;
+color: #FFFFFF;
 
 }
-.button4{
-    position: absolute;
-width: 170.11px;
-height: 64px;
-left: 1046px;
-top: 2600.96px;
-
-}
-
-
